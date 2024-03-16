@@ -5,3 +5,19 @@
 body {
     margin: 0px;
 }
+
+.left{
+    width: 280px;
+}
+
+.right{
+    width: 620px;
+}
+
+.main {
+    width: 900px;
+    margin: auto;
+    margin-top: 10vh;
+    display: flex;
+    background-color: yellow;
+}
